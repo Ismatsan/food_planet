@@ -1,0 +1,143 @@
+.header{
+    position: absolute;
+    width: 1200px;
+    height: 40px;
+    left: 200px;
+    top: 24px;
+
+}
+
+.Logo{
+    width: 224px;
+    height: 40px;
+    left: 200px;
+    top: 24px;
+}
+
+.navigator{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    width: 495px;
+    height: 24px;
+    left: 225px;
+    top: 0;
+}
+
+.main{
+
+    width: 72px;
+    height: 24px;
+    left: 553px;
+    top: 32px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FF583E;
+}
+
+.menu{
+    width: 67px;
+    height: 24px;
+    left: 685px;
+    top: 32px;
+
+}
+
+.delivery{
+    width: 88px;
+    height: 24px;
+    left: 812px;
+    top: 32px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #1D3130;
+}
+
+.contacts{
+    width: 88px;
+    height: 24px;
+    left: 960px;
+    top: 32px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #1D3130;
+ }
+
+.phone{
+    display: flex;
+    position: absolute;
+    width: 160px;
+    height: 24px;
+    left: 780px;
+    top: 0;
+}
+
+.call{
+    width: 16px;
+    height: 16px;
+    left: 1108px;
+    top: 36px;
+
+}
+
+.put{
+    width: 136px;
+    height: 24px;
+    top: 0;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #1D3130;
+}
+
+.basket{
+    position: absolute;
+    width: 72px;
+    height: 24px;
+    left: 1030px;
+    top: 0;
+}
+
+.buy{
+    width: 16px;
+    height: 16px;
+    left: 1030px;
+    top: 0;
+
+}
+
+.vector{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 5.56%;
+    bottom: 2.79%;
+    background: #1D3130;
+}
+
+.amount{
+    width: 48px;
+    height: 20px;
+    left: 1352px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 23px;
+    color: #FF583E;
+}

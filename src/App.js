@@ -1,11 +1,11 @@
 import React from 'react';
-import Header from "./components/Header";
+import Header from "./components/Header/Header";
 import Footer from "./components/Footer";
 
 const App = () => {
     return (
         <>
-            <div>
+            <div className="w3-content" style={{maxWidth: "1400px"}}>
                 <Header/>
             </div>
             <Footer/>
