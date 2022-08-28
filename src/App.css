@@ -1,7 +1,22 @@
+.desk{
+    position: relative;
+    width: 1600px;
+    height: 3225px;
+    background: #FCFCFC;
+}
+
 .first{
     position: absolute;
     width: 1600px;
     height: 600px;
     left: 0;
     top: 0;
+}
+
+.firstBlok{
+    position: absolute;
+    width: 1152px;
+    height: 550px;
+    left: 240px;
+    top: 656px;
 }

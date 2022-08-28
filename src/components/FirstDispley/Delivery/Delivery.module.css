@@ -1,0 +1,70 @@
+.title{
+    width: 403px;
+    height: 127px;
+    left: 200px;
+    top: 208px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    color: #254F4C;
+}
+
+.delivery{
+    position: absolute;
+    width: 419px;
+    height: 256px;
+    left: 170px;
+    top: 200px;
+}
+
+.text{
+    width: 416px;
+    height: 48px;
+    left: 203px;
+    top: 351px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: #1D3130;
+}
+
+.button{
+    width: 216px;
+    height: 49px;
+    left: 200px;
+    top: 415px;
+}
+
+.btn{
+    left: 250px;
+    top: 427px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 147.19%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    width: 216px;
+    height: 49px;
+
+    background: #FF583E;
+    border-radius: 100px;
+    color: #FFFFFF;
+}
+
+.frame{
+    background-image: url("./img/Frame 9.svg");
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 170px;
+    top: 280px;
+}
