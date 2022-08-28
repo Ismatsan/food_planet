@@ -1,0 +1,140 @@
+.fBlok{
+    position: absolute;
+    width: 1152px;
+    height: 550px;
+    left: 240px;
+    top: 656px;
+}
+
+.novelties{
+    position: absolute;
+    width: 122px;
+    height: 32px;
+    left: 0;
+    top: 0;
+    margin: 0;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    color: #254F4C;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    width: 600px;
+    height: 32px;
+    left: 516px;
+    top: 656px;
+}
+
+.pizza{
+    width: 72px;
+    height: 32px;
+    left: 516px;
+    top: 656px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #1D3130;
+
+}
+
+.burger{
+    width: 72px;
+    height: 32px;
+    left: 604px;
+    top: 656px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #FF583E;
+}
+
+.sushi{
+    width: 72px;
+    height: 32px;
+    left: 692px;
+    top: 656px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #1D3130;
+}
+
+.rols{
+    width: 72px;
+    height: 32px;
+    left: 780px;
+    top: 656px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #1D3130;
+}
+
+.salads{
+    width: 72px;
+    height: 32px;
+    left: 868px;
+    top: 656px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #1D3130;
+}
+
+.desserts{
+    width: 72px;
+    height: 32px;
+    left: 956px;
+    top: 656px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #1D3130;
+}
+
+.beverages{
+    width: 72px;
+    height: 32px;
+    left: 1044px;
+    top: 656px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #1D3130;
+}
