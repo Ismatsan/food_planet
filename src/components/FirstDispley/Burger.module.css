@@ -1,0 +1,9 @@
+.burger{
+    position: absolute;
+    background-image: url("./img/burger.jpg");
+    width: 659px;
+    height: 455px;
+    left: 741px;
+    top: 112px;
+
+}

@@ -8,6 +8,7 @@
 }
 
 .Logo{
+    background-image: url("./img/LOgo.svg");
     width: 224px;
     height: 40px;
     left: 200px;
@@ -88,16 +89,18 @@
 }
 
 .call{
-    width: 16px;
-    height: 16px;
-    left: 1108px;
-    top: 36px;
+    position: absolute;
+    background-image: url("./img/Phone.svg");
+    width: 22px;
+    height: 22px;
+    top: 0;
 
 }
 
 .put{
     width: 136px;
     height: 24px;
+    padding-left: 22px;
     top: 0;
     font-style: normal;
     font-weight: 400;
@@ -110,15 +113,15 @@
     position: absolute;
     width: 72px;
     height: 24px;
-    left: 1030px;
+    left: 1032px;
     top: 0;
 }
 
 .buy{
-    width: 16px;
-    height: 16px;
+    width: 22px;
+    height: 22px;
+    background-image: url("./img/buy 1.svg");
     left: 1030px;
-    top: 0;
 
 }
 
@@ -132,7 +135,7 @@
 }
 
 .amount{
-    width: 48px;
+    width: 42px;
     height: 20px;
     left: 1352px;
     font-style: normal;
