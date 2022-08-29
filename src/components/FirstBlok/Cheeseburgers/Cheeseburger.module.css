@@ -1,0 +1,257 @@
+/*.cheeseburger{*/
+
+/*}*/
+
+.cheeseburg{
+    position: absolute;
+    width: 200px;
+    height: 143px;
+    left: 32px;
+    top: -45px;
+    background: url('./img/Tofu-Burger- 1.png');
+}
+
+.title{
+    position: absolute;
+    width: 232px;
+    height: 24px;
+    left: 77px;
+    top: 114px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.desc{
+    position: absolute;
+    width: 231px;
+    height: 89px;
+    left: 18px;
+    top: 144px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.cost{
+    position: absolute;
+    width: 231px;
+    height: 24px;
+    left: 90px;
+    top: 246px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.cheeseburgers1{
+    position: absolute;
+    width: 264px;
+    height: 392px;
+    left: 296px;
+    background: #2B4241;
+    border-radius: 40px;
+}
+
+.cheeseburg1{
+    position: absolute;
+    width: 200px;
+    height: 143px;
+    left: 32px;
+    top: -45px;
+    background: url('./img/Tofu-Burger- 2.png');
+}
+
+.title1{
+    position: absolute;
+    width: 232px;
+    height: 24px;
+    left: 82px;
+    top: 114px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.desc1{
+    position: absolute;
+    width: 231px;
+    height: 89px;
+    left: 16px;
+    top: 144px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.cost1{
+    position: absolute;
+    width: 231px;
+    height: 24px;
+    left: 96px;
+    top: 246px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+.cheeseburgers2{
+    position: absolute;
+    width: 264px;
+    height: 392px;
+    left: 592px;
+    background: #2B4241;
+    border-radius: 40px;
+}
+
+.cheeseburg2{
+    position: absolute;
+    width: 200px;
+    height: 143px;
+    left: 32px;
+    top: -45px;
+    background: url('./img/Tofu-Burger-3.png');
+}
+
+.title2{
+    position: absolute;
+    width: 232px;
+    height: 24px;
+    left: 82px;
+    top: 114px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.desc2{
+    position: absolute;
+    width: 231px;
+    height: 89px;
+    left: 16px;
+    top: 144px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.cost2{
+    position: absolute;
+    width: 231px;
+    height: 24px;
+    left: 96px;
+    top: 246px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.cheeseburgers3{
+    position: absolute;
+    width: 264px;
+    height: 392px;
+    left: 888px;
+    background: #2B4241;
+    border-radius: 40px;
+}
+
+.cheeseburg3{
+    position: absolute;
+    width: 200px;
+    height: 143px;
+    left: 32px;
+    top: -45px;
+    background: url('./img/Tofu-Burger-4.png');
+}
+
+.title3{
+    position: absolute;
+    width: 232px;
+    height: 24px;
+    left: 82px;
+    top: 114px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.desc3{
+    position: absolute;
+    width: 231px;
+    height: 89px;
+    left: 16px;
+    top: 144px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.cost3{
+    position: absolute;
+    width: 231px;
+    height: 24px;
+    left: 96px;
+    top: 246px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}

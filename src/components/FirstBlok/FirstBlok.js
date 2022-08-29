@@ -1,5 +1,6 @@
 import React from 'react';
 import style from './FirstBlok.module.css';
+import Cheeseburger from "./Cheeseburgers/Cheeseburger";
 
 const FirstBlok = () => {
     return (
@@ -29,6 +30,9 @@ const FirstBlok = () => {
                 <a href="./" target="_blank">
                     <button className={style.salads}>Напитки</button>
                 </a>
+            </div>
+            <div className={style.chburgers}>
+                <Cheeseburger/>
             </div>
         </>
     );
