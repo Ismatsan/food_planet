@@ -5,6 +5,7 @@ import Burger from "./components/FirstDispley/Burger";
 import style from './App.css';
 import Delivery from "./components/FirstDispley/Delivery/Delivery";
 import FirstBlok from "./components/FirstBlok/FirstBlok";
+import SecondBlok from "./components/SecondBlok/SecondBlok";
 
 const App = () => {
     return (
@@ -16,6 +17,9 @@ const App = () => {
             </div>
             <div className={style.firstBlok}>
                 <FirstBlok/>
+            </div>
+            <div className={style.secondBlok}>
+                <SecondBlok/>
             </div>
             <Footer/>
         </div>

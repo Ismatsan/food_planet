@@ -1,0 +1,36 @@
+.sorter{
+    width: 304px;
+    height: 40px;
+    left: 1072px;
+    top: 1230px;
+}
+
+.sort{
+    position: absolute;
+    width: 136px;
+    height: 40px;
+    left: 1072px;
+    top: 1230px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    color: #1D3130;
+}
+
+.rectangle{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    width: 160px;
+    height: 34px;
+    left: 1216px;
+    top: 1230px;
+    border: 1px solid #C4C4C4;
+}
+
+.select{
+    border: none;
+}

@@ -34,6 +34,32 @@ const FirstBlok = () => {
             <div className={style.chburgers}>
                 <Cheeseburger/>
             </div>
+            <div className={style.sBlok}>
+                <p className={style.menue}>Меню</p>
+            </div>
+            <div className={style.menu2}>
+                <a href="./" target="_blank">
+                    <button className={style.pizza2}>Пицца</button>
+                </a>
+                <a href="./" target="_blank">
+                    <button className={style.burger2}>Бургер</button>
+                </a>
+                <a href="./" target="_blank">
+                    <button className={style.sushi2}>Суши</button>
+                </a>
+                <a href="./" target="_blank">
+                    <button className={style.rols2}>Роллы</button>
+                </a>
+                <a href="./" target="_blank">
+                    <button className={style.salads2}>Салаты</button>
+                </a>
+                <a href="./" target="_blank">
+                    <button className={style.desserts2}>Десерты</button>
+                </a>
+                <a href="./" target="_blank">
+                    <button className={style.salads2}>Напитки</button>
+                </a>
+            </div>
         </>
     );
 };
