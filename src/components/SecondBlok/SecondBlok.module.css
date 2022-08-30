@@ -34,3 +34,570 @@
 .select{
     border: none;
 }
+
+.pizza1{
+    position: absolute;
+    width: 264px;
+    height: 400px;
+    left: 224px;
+    top: 1382px;
+    background: #FFFFFF;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 40px;
+}
+
+.img1{
+    position: absolute;
+    width: 200px;
+    height: 160px;
+    left: 32px;
+    background: url('./img/Tofu-Burger-PNG-1.png');
+}
+
+.title1{
+    position: absolute;
+    width: 232px;
+    height: 24px;
+    left: 60px;
+    top: 180px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #254F4C;
+}
+
+.desc1{
+    position: absolute;
+    width: 232px;
+    height: 72px;
+    left: 14px;
+    top: 202px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.cost1{
+    position: absolute;
+    width: 231px;
+    height: 24px;
+    left: 94px;
+    top: 280px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #254F4C;
+}
+
+.pizza2{
+    position: absolute;
+    width: 264px;
+    height: 400px;
+    left: 522px;
+    top: 1382px;
+    background: #FFFFFF;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 40px;
+}
+
+.img2{
+    position: absolute;
+    width: 200px;
+    height: 160px;
+    left: 32px;
+    background: url('./img/Tofu-Burger-PNG- 2.png');
+}
+
+.title2{
+    position: absolute;
+    width: 232px;
+    height: 24px;
+    left: 60px;
+    top: 180px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #254F4C;
+}
+
+.desc2{
+    position: absolute;
+    width: 232px;
+    height: 72px;
+    left: 14px;
+    top: 202px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.cost2{
+    position: absolute;
+    width: 231px;
+    height: 24px;
+    left: 94px;
+    top: 280px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #254F4C;
+}
+
+.pizza3{
+    position: absolute;
+    width: 264px;
+    height: 400px;
+    left: 818px;
+    top: 1382px;
+    background: #FFFFFF;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 40px;
+}
+
+.img3{
+    position: absolute;
+    width: 200px;
+    height: 160px;
+    left: 32px;
+    background: url('./img/Tofu-Burger-PNG-3.png');
+}
+
+.title3{
+    position: absolute;
+    width: 232px;
+    height: 24px;
+    left: 60px;
+    top: 180px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #254F4C;
+}
+
+.desc3{
+    position: absolute;
+    width: 232px;
+    height: 72px;
+    left: 14px;
+    top: 202px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.cost3{
+    position: absolute;
+    width: 231px;
+    height: 24px;
+    left: 94px;
+    top: 280px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #254F4C;
+}
+
+.pizza4{
+    position: absolute;
+    width: 264px;
+    height: 400px;
+    left: 1114px;
+    top: 1382px;
+    background: #FFFFFF;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 40px;
+}
+
+.img4{
+    position: absolute;
+    width: 200px;
+    height: 160px;
+    left: 32px;
+    background: url('./img/Tofu-Burger-PNG-4.png');
+}
+
+.title4{
+    position: absolute;
+    width: 232px;
+    height: 24px;
+    left: 60px;
+    top: 180px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #254F4C;
+}
+
+.desc4{
+    position: absolute;
+    width: 232px;
+    height: 72px;
+    left: 14px;
+    top: 202px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.cost4{
+    position: absolute;
+    width: 231px;
+    height: 24px;
+    left: 94px;
+    top: 280px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #254F4C;
+}
+
+.pizza5{
+    position: absolute;
+    width: 264px;
+    height: 400px;
+    left: 224px;
+    top: 1810px;
+    background: #FFFFFF;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 40px;
+}
+
+.img5{
+    position: absolute;
+    width: 200px;
+    height: 160px;
+    left: 32px;
+    background: url('./img/Tofu-Burger-PNG-5.png');
+}
+
+.title5{
+    position: absolute;
+    width: 232px;
+    height: 24px;
+    left: 60px;
+    top: 180px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #254F4C;
+}
+
+.desc5{
+    position: absolute;
+    width: 232px;
+    height: 72px;
+    left: 14px;
+    top: 202px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.cost5{
+    position: absolute;
+    width: 231px;
+    height: 24px;
+    left: 94px;
+    top: 280px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #254F4C;
+}
+
+.pizza6{
+    position: absolute;
+    width: 264px;
+    height: 400px;
+    left: 522px;
+    top: 1810px;
+    background: #FFFFFF;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 40px;
+}
+
+.img6{
+    position: absolute;
+    width: 200px;
+    height: 160px;
+    left: 32px;
+    background: url('./img/Tofu-Burger-PNG-6.png');
+}
+
+.title6{
+    position: absolute;
+    width: 232px;
+    height: 24px;
+    left: 60px;
+    top: 180px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #254F4C;
+}
+
+.desc6{
+    position: absolute;
+    width: 232px;
+    height: 72px;
+    left: 14px;
+    top: 202px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.cost6{
+    position: absolute;
+    width: 231px;
+    height: 24px;
+    left: 94px;
+    top: 280px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #254F4C;
+}
+
+.pizza7{
+    position: absolute;
+    width: 264px;
+    height: 400px;
+    left: 818px;
+    top: 1810px;
+    background: #FFFFFF;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 40px;
+}
+
+.img7{
+    position: absolute;
+    width: 200px;
+    height: 160px;
+    left: 32px;
+    background: url('./img/Tofu-Burger-PNG-7.png');
+}
+
+.title7{
+    position: absolute;
+    width: 232px;
+    height: 24px;
+    left: 60px;
+    top: 180px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #254F4C;
+}
+
+.desc7{
+    position: absolute;
+    width: 232px;
+    height: 72px;
+    left: 14px;
+    top: 202px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.cost7{
+    position: absolute;
+    width: 231px;
+    height: 24px;
+    left: 94px;
+    top: 280px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #254F4C;
+}
+
+.pizza8{
+    position: absolute;
+    width: 264px;
+    height: 400px;
+    left: 1114px;
+    top: 1810px;
+    background: #FFFFFF;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 40px;
+}
+
+.img8{
+    position: absolute;
+    width: 200px;
+    height: 160px;
+    left: 32px;
+    background: url('./img/Tofu-Burger-PNG-8.png');
+}
+
+.title8{
+    position: absolute;
+    width: 232px;
+    height: 24px;
+    left: 60px;
+    top: 180px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #254F4C;
+}
+
+.desc8{
+    position: absolute;
+    width: 232px;
+    height: 72px;
+    left: 14px;
+    top: 202px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.cost8{
+    position: absolute;
+    width: 231px;
+    height: 24px;
+    left: 94px;
+    top: 280px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #254F4C;
+}
+
+.btn{
+    position: absolute;
+    bottom: 30.43%;
+    box-sizing: border-box;
+    width: 200px;
+    height: 48px;
+    left: 700px;
+    top: 2255px;
+    border: 1px solid #FF583E;
+    border-radius: 40px;
+}
+
+.button{
+    position: absolute;
+    width: 152px;
+    height: 24px;
+    left: 30px;
+    top: 12px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FF583E;
+    background: none;
+    border: none;
+}
