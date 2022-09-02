@@ -7,6 +7,7 @@ import Delivery from "./components/FirstDispley/Delivery/Delivery";
 import FirstBlok from "./components/FirstBlok/FirstBlok";
 import SecondBlok from "./components/SecondBlok/SecondBlok";
 import About from "./components/About/About";
+import Reviews from "./components/Reviews/Reviews";
 
 const App = () => {
     return (
@@ -25,6 +26,7 @@ const App = () => {
             <div className={style.about}>
                 <About/>
             </div>
+            <Reviews/>
             <Footer/>
         </div>
     );

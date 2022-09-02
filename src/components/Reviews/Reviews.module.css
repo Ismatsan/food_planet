@@ -1,0 +1,390 @@
+.reviews{
+    position: absolute;
+    width: 1120px;
+    height: 390px;
+    left: 224px;
+    top: 2590px;
+
+}
+
+.title{
+    position: absolute;
+    width: 278px;
+    height: 32px;
+    top: 10px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    color: #254F4C;
+}
+
+.revs{
+    position: absolute;
+    width: 1120px;
+    height: 334px;
+    left: 0;
+    top: 54px;
+}
+
+.review{
+
+    position: absolute;
+    width: 250px;
+    height: 313px;
+    left: 0;
+    top: 20px;
+}
+
+.frame{
+    background-image: url("./images/frame.png");
+    position: absolute;
+    width: 250px;
+    height: 313px;
+    left: 0;
+    top: 0;
+}
+
+.face{
+    position: absolute;
+    width: 85px;
+    height: 80px;
+    top: 32px;
+    left: 80px;
+    background-image: url("./images/face.png");
+}
+
+.message{
+    position: absolute;
+    width: 216px;
+    height: 168px;
+    left: 18px;
+    top: 122px;
+
+}
+
+.name{
+    position: absolute;
+    width: 102px;
+    height: 24px;
+    left: 68px;
+    top: 8px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #3B7976;
+}
+
+.pen{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 124px;
+    top: 8px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+    background-image: url("./images/pen.png");
+}
+
+.text{
+    position: absolute;
+    width: 216px;
+    height: 104px;
+    left: 0;
+    top: 26px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #061817;
+}
+
+.date{
+    position: absolute;
+    width: 206px;
+    height: 16px;
+    left: 10px;
+    top: 128px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #3B7976;
+}
+
+.review2{
+
+    position: absolute;
+    width: 250px;
+    height: 313px;
+    left: 290px;
+    top: 20px;
+}
+
+.frame2{
+    background-image: url("./images/frame.png");
+    position: absolute;
+    width: 250px;
+    height: 313px;
+    left: 0;
+    top: 0;
+}
+
+.face2{
+    position: absolute;
+    width: 85px;
+    height: 80px;
+    top: 32px;
+    left: 80px;
+    background-image: url("./images/face.png");
+}
+
+.message2{
+    position: absolute;
+    width: 216px;
+    height: 168px;
+    left: 18px;
+    top: 122px;
+
+}
+
+.name2{
+    position: absolute;
+    width: 102px;
+    height: 24px;
+    left: 68px;
+    top: 8px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #3B7976;
+}
+
+.pen2{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 124px;
+    top: 8px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+    background-image: url("./images/pen.png");
+}
+
+.text2{
+    position: absolute;
+    width: 216px;
+    height: 104px;
+    left: 0;
+    top: 26px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #061817;
+}
+
+.date2{
+    position: absolute;
+    width: 206px;
+    height: 16px;
+    left: 10px;
+    top: 128px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #3B7976;
+}
+
+.review3{
+
+    position: absolute;
+    width: 250px;
+    height: 313px;
+    left: 580px;
+    top: 20px;
+}
+
+.frame3{
+    background-image: url("./images/frame.png");
+    position: absolute;
+    width: 250px;
+    height: 313px;
+    left: 0;
+    top: 0;
+}
+
+.face3{
+    position: absolute;
+    width: 85px;
+    height: 80px;
+    top: 32px;
+    left: 80px;
+    background-image: url("./images/face.png");
+}
+
+.message3{
+    position: absolute;
+    width: 216px;
+    height: 168px;
+    left: 18px;
+    top: 122px;
+
+}
+
+.name3{
+    position: absolute;
+    width: 102px;
+    height: 24px;
+    left: 68px;
+    top: 8px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #3B7976;
+}
+
+.pen3{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 124px;
+    top: 8px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+    background-image: url("./images/pen.png");
+}
+
+.text3{
+    position: absolute;
+    width: 216px;
+    height: 104px;
+    left: 0;
+    top: 26px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #061817;
+}
+
+.date3{
+    position: absolute;
+    width: 206px;
+    height: 16px;
+    left: 10px;
+    top: 128px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #3B7976;
+}
+
+.review4{
+
+    position: absolute;
+    width: 250px;
+    height: 313px;
+    left: 870px;
+    top: 20px;
+}
+
+.frame4{
+    background-image: url("./images/frame.png");
+    position: absolute;
+    width: 250px;
+    height: 313px;
+    left: 0;
+    top: 0;
+}
+
+.face4{
+    position: absolute;
+    width: 85px;
+    height: 80px;
+    top: 32px;
+    left: 80px;
+    background-image: url("./images/face.png");
+}
+
+.message4{
+    position: absolute;
+    width: 216px;
+    height: 168px;
+    left: 18px;
+    top: 122px;
+
+}
+
+.name4{
+    position: absolute;
+    width: 102px;
+    height: 24px;
+    left: 68px;
+    top: 8px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #3B7976;
+}
+
+.pen4{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 124px;
+    top: 8px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+    background-image: url("./images/pen.png");
+}
+
+.text4{
+    position: absolute;
+    width: 216px;
+    height: 104px;
+    left: 0;
+    top: 26px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #061817;
+}
+
+.date4{
+    position: absolute;
+    width: 206px;
+    height: 16px;
+    left: 10px;
+    top: 128px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #3B7976;
+}
