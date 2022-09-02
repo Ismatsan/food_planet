@@ -42,11 +42,12 @@
 }
 
 .menu{
+    background: #efefef;
     width: 67px;
     height: 24px;
     left: 685px;
     top: 32px;
-
+    color: #1D3130;
 }
 
 .delivery{

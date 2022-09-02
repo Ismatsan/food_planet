@@ -573,6 +573,40 @@
 
 .btn{
     position: absolute;
+    left: 12%;
+    right: 70%;
+    top: 88%;
+    bottom: 65%;
+    width: 200px;
+    height: 48px;
+
+    background: #254F4C;
+    border-radius: 40px;
+}
+
+.button{
+    position: absolute;
+    background: #254F4C;
+    border-radius: 26px;
+    border: none;
+    width: 190px;
+    height: 43px;
+    left: 6px;
+    top: 2px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+    justify-content: center;
+}
+
+.bt{
+    position: absolute;
     bottom: 30.43%;
     box-sizing: border-box;
     width: 200px;
@@ -583,7 +617,7 @@
     border-radius: 40px;
 }
 
-.button{
+.buttn{
     position: absolute;
     width: 152px;
     height: 24px;
@@ -600,4 +634,38 @@
     color: #FF583E;
     background: none;
     border: none;
+}
+
+.increase{
+    position: absolute;
+    background-color: #2B4241;
+    top: 312px;
+    width: 16px;
+    height: 0;
+    left: 142px;
+    color: #FF583E;
+}
+
+.decrease{
+    position: absolute;
+    background-color:#2B4241;
+    top: 312px;
+    width: 16px;
+    height: 0;
+    left: 92px;
+    color: #FF583E;
+}
+
+.counter{
+    display: flex;
+}
+
+.like{
+    position: absolute;
+    top: -32px;
+    margin-left: -20px;
+    width: 8px;
+    height: 16px;
+    font-size: 26px;
+    color:#254F4C;
 }

@@ -1,5 +1,6 @@
 import React from 'react';
 import style from './SecondBlok.module.css';
+import Summing from "./Summing";
 
 const SecondBlok = () => {
     return (
@@ -27,6 +28,10 @@ const SecondBlok = () => {
                 <div className={style.cost1}>
                     <p>200 сом</p>
                 </div>
+                <Summing/>
+                <div className={style.btn}>
+                    <button className={style.button}>В корзину</button>
+                </div>
             </div>
             <div className={style.pizza2}>
                 <div className={style.img2}>
@@ -39,6 +44,10 @@ const SecondBlok = () => {
                 </div>
                 <div className={style.cost2}>
                     <p>200 сом</p>
+                </div>
+                <Summing/>
+                <div className={style.btn}>
+                    <button className={style.button}>В корзину</button>
                 </div>
             </div>
             <div className={style.pizza3}>
@@ -53,6 +62,10 @@ const SecondBlok = () => {
                 <div className={style.cost3}>
                     <p>200 сом</p>
                 </div>
+                <Summing/>
+                <div className={style.btn}>
+                    <button className={style.button}>В корзину</button>
+                </div>
             </div>
             <div className={style.pizza4}>
                 <div className={style.img4}>
@@ -65,6 +78,10 @@ const SecondBlok = () => {
                 </div>
                 <div className={style.cost4}>
                     <p>200 сом</p>
+                </div>
+                <Summing/>
+                <div className={style.btn}>
+                    <button className={style.button}>В корзину</button>
                 </div>
             </div>
             <div className={style.pizza5}>
@@ -79,6 +96,10 @@ const SecondBlok = () => {
                 <div className={style.cost5}>
                     <p>200 сом</p>
                 </div>
+                <Summing/>
+                <div className={style.btn}>
+                    <button className={style.button}>В корзину</button>
+                </div>
             </div>
             <div className={style.pizza6}>
                 <div className={style.img6}>
@@ -91,6 +112,10 @@ const SecondBlok = () => {
                 </div>
                 <div className={style.cost6}>
                     <p>200 сом</p>
+                </div>
+                <Summing/>
+                <div className={style.btn}>
+                    <button className={style.button}>В корзину</button>
                 </div>
             </div>
             <div className={style.pizza7}>
@@ -105,6 +130,10 @@ const SecondBlok = () => {
                 <div className={style.cost7}>
                     <p>200 сом</p>
                 </div>
+                <Summing/>
+                <div className={style.btn}>
+                    <button className={style.button}>В корзину</button>
+                </div>
             </div>
             <div className={style.pizza8}>
                 <div className={style.img8}>
@@ -118,9 +147,13 @@ const SecondBlok = () => {
                 <div className={style.cost8}>
                     <p>200 сом</p>
                 </div>
+                <Summing/>
+                <div className={style.btn}>
+                    <button className={style.button}>В корзину</button>
+                </div>
             </div>
-            <div className={style.btn}>
-                <button className={style.button}>Показать еще</button>
+            <div className={style.bt}>
+                <button className={style.buttn}>Показать еще</button>
             </div>
 
         </>

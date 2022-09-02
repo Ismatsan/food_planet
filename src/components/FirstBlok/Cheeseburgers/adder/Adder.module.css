@@ -1,0 +1,33 @@
+.increase{
+    position: absolute;
+    background-color: #2B4241;
+    top: 294px;
+    width: 16px;
+    height: 0;
+    left: 142px;
+    color: #FF583E;
+}
+
+.decrease{
+    position: absolute;
+    background-color:#2B4241;
+    top: 294px;
+    width: 16px;
+    height: 0;
+    left: 92px;
+    color: #FF583E;
+}
+
+.counter{
+    display: flex;
+}
+
+.like{
+    position: absolute;
+    top: -30px;
+    margin-left: -20px;
+    width: 8px;
+    height: 16px;
+    font-size: 26px;
+    color: #FFFFFF;
+}

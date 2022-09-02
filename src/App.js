@@ -6,6 +6,7 @@ import style from './App.css';
 import Delivery from "./components/FirstDispley/Delivery/Delivery";
 import FirstBlok from "./components/FirstBlok/FirstBlok";
 import SecondBlok from "./components/SecondBlok/SecondBlok";
+import About from "./components/About/About";
 
 const App = () => {
     return (
@@ -20,6 +21,9 @@ const App = () => {
             </div>
             <div className={style.secondBlok}>
                 <SecondBlok/>
+            </div>
+            <div className={style.about}>
+                <About/>
             </div>
             <Footer/>
         </div>

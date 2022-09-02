@@ -1,5 +1,6 @@
 import React from 'react';
 import style from './Cheeseburger.module.css';
+import Adder from "./adder/Adder";
 
 const Cheeseburger = () => {
     return (
@@ -15,6 +16,10 @@ const Cheeseburger = () => {
             <div className={style.cost}>
                 <p>200 сом</p>
             </div>
+            <Adder/>
+            <div className={style.btn}>
+                <button className={style.button}>В корзину</button>
+            </div>
             <div className={style.cheeseburgers1}>
                 <div className={style.cheeseburg1}>
                 </div>
@@ -26,6 +31,10 @@ const Cheeseburger = () => {
                 </div>
                 <div className={style.cost1}>
                     <p>200 сом</p>
+                </div>
+                <Adder/>
+                <div className={style.btn}>
+                    <button className={style.button}>В корзину</button>
                 </div>
             </div>
             <div className={style.cheeseburgers2}>
@@ -40,6 +49,10 @@ const Cheeseburger = () => {
                 <div className={style.cost2}>
                     <p>200 сом</p>
                 </div>
+                <Adder/>
+                <div className={style.btn}>
+                    <button className={style.button}>В корзину</button>
+                </div>
             </div>
             <div className={style.cheeseburgers3}>
                 <div className={style.cheeseburg3}>
@@ -52,6 +65,10 @@ const Cheeseburger = () => {
                 </div>
                 <div className={style.cost3}>
                     <p>200 сом</p>
+                </div>
+                <Adder/>
+                <div className={style.btn}>
+                    <button className={style.button}>В корзину</button>
                 </div>
             </div>
         </>

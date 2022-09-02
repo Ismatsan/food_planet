@@ -16,7 +16,7 @@
     width: 232px;
     height: 24px;
     left: 77px;
-    top: 114px;
+    top: 120px;
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
@@ -32,7 +32,7 @@
     width: 231px;
     height: 89px;
     left: 18px;
-    top: 144px;
+    top: 150px;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -48,7 +48,7 @@
     width: 231px;
     height: 24px;
     left: 90px;
-    top: 246px;
+    top: 252px;
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
@@ -82,7 +82,7 @@
     width: 232px;
     height: 24px;
     left: 82px;
-    top: 114px;
+    top: 120px;
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
@@ -147,7 +147,7 @@
     width: 232px;
     height: 24px;
     left: 82px;
-    top: 114px;
+    top: 120px;
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
@@ -201,10 +201,10 @@
 
 .cheeseburg3{
     position: absolute;
-    width: 200px;
-    height: 143px;
-    left: 32px;
-    top: -45px;
+    width: 188px;
+    height: 141px;
+    left: 40px;
+    top: -49px;
     background: url('./img/Tofu-Burger-4.png');
 }
 
@@ -213,7 +213,7 @@
     width: 232px;
     height: 24px;
     left: 82px;
-    top: 114px;
+    top: 120px;
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
@@ -254,4 +254,38 @@
     align-items: center;
     text-align: center;
     color: #FFFFFF;
+}
+
+.btn{
+    position: absolute;
+    left: 12%;
+    right: 70%;
+    top: 88%;
+    bottom: 65%;
+    width: 200px;
+    height: 48px;
+
+    background: #FF583E;
+    border-radius: 40px;
+}
+
+.button{
+    position: absolute;
+    background: #ff583e;
+    border-radius: 26px;
+    border: none;
+    width: 190px;
+    height: 43px;
+    left: 6px;
+    top: 2px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+    justify-content: center;
 }
