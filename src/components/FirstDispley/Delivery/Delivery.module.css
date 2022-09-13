@@ -42,19 +42,13 @@
 }
 
 .btn{
-    left: 250px;
-    top: 427px;
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
     line-height: 147.19%;
-    display: flex;
-    align-items: center;
-    text-align: center;
     text-transform: uppercase;
     width: 216px;
     height: 49px;
-
     background: #FF583E;
     border-radius: 100px;
     color: #FFFFFF;
@@ -65,6 +59,6 @@
     position: absolute;
     width: 16px;
     height: 16px;
-    left: 170px;
-    top: 280px;
+    left: 176px;
+    top: 278px;
 }

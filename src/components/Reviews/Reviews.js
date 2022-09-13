@@ -1,5 +1,7 @@
 import React from 'react';
 import style from "./Reviews.module.css";
+import img from "./images/face.png";
+
 
 const Reviews = () => {
     return (
@@ -9,7 +11,7 @@ const Reviews = () => {
                 <div className={style.revs}>
                     <div className={style.review}>
                         <div className={style.frame}>
-                            <div className={style.face}> </div>
+                            <img className={style.face} src={img} alt=""/>
                             <div className={style.message}>
                                 <div className={style.name}>Улан</div>
                                 <div className={style.pen}> </div>
@@ -20,7 +22,7 @@ const Reviews = () => {
                     </div>
                     <div className={style.review2}>
                         <div className={style.frame2}>
-                            <div className={style.face2}> </div>
+                            <img className={style.face2} src={img} alt=""/>
                             <div className={style.message2}>
                                 <div className={style.name2}>Сергей</div>
                                 <div className={style.pen2}> </div>
@@ -31,7 +33,7 @@ const Reviews = () => {
                     </div>
                     <div className={style.review3}>
                         <div className={style.frame3}>
-                            <div className={style.face3}> </div>
+                            <img className={style.face3} src={img} alt=""/>
                             <div className={style.message3}>
                                 <div className={style.name3}>Алекс</div>
                                 <div className={style.pen3}> </div>
@@ -42,7 +44,7 @@ const Reviews = () => {
                     </div>
                     <div className={style.review4}>
                         <div className={style.frame4}>
-                            <div className={style.face4}> </div>
+                            <img className={style.face4} src={img} alt=""/>
                             <div className={style.message4}>
                                 <div className={style.name4}>Жамиля</div>
                                 <div className={style.pen4}> </div>

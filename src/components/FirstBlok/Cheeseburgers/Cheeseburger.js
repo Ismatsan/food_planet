@@ -1,36 +1,38 @@
 import React from 'react';
 import style from './Cheeseburger.module.css';
 import Adder from "./adder/Adder";
+import img from './img/Tofu-Burger- 1.png';
+import img2 from './img/Tofu-Burger- 2.png';
+import img3 from './img/Tofu-Burger-3.png';
+import img4 from './img/Tofu-Burger-4.png';
 
-const Cheeseburger = () => {
+const Cheeseburger = (props) => {
     return (
         <>
-            <div className={style.cheeseburg}>
-            </div>
+            <img className={style.cheeseburg} src={img} alt=""/>
             <div className={style.title}>
-                <b>Чизбургер</b>
+                <b>{props.titleDesc}</b>
             </div>
             <div className={style.desc}>
-                <p>Булка, котлета,сыр, соленый огурец, лук, помидор, салат айсберг, соус чесночный, соус гриль, кетчуп, майонез</p>
+                <p>{props.desc}</p>
             </div>
             <div className={style.cost}>
-                <p>200 сом</p>
+                <p>{props.price}</p>
             </div>
             <Adder/>
             <div className={style.btn}>
                 <button className={style.button}>В корзину</button>
             </div>
             <div className={style.cheeseburgers1}>
-                <div className={style.cheeseburg1}>
-                </div>
+                <img className={style.cheeseburg1} src={img2} alt=""/>
                 <div className={style.title1}>
-                    <b>Чизбургер</b>
+                    <b>{props.titleDesc}</b>
                 </div>
                 <div className={style.desc1}>
-                    <p>Булка, котлета,сыр, соленый огурец, лук, помидор, салат айсберг, соус чесночный, соус гриль, кетчуп, майонез</p>
+                    <p>{props.desc}</p>
                 </div>
                 <div className={style.cost1}>
-                    <p>200 сом</p>
+                    <p>{props.price}</p>
                 </div>
                 <Adder/>
                 <div className={style.btn}>
@@ -38,16 +40,15 @@ const Cheeseburger = () => {
                 </div>
             </div>
             <div className={style.cheeseburgers2}>
-                <div className={style.cheeseburg2}>
-                </div>
+                <img className={style.cheeseburg2} src={img3} alt=""/>
                 <div className={style.title2}>
-                    <b>Чизбургер</b>
+                    <b>{props.titleDesc}</b>
                 </div>
                 <div className={style.desc2}>
-                    <p>Булка, котлета,сыр, соленый огурец, лук, помидор, салат айсберг, соус чесночный, соус гриль, кетчуп, майонез</p>
+                    <p>{props.desc}</p>
                 </div>
                 <div className={style.cost2}>
-                    <p>200 сом</p>
+                    <p>{props.price}</p>
                 </div>
                 <Adder/>
                 <div className={style.btn}>
@@ -55,16 +56,15 @@ const Cheeseburger = () => {
                 </div>
             </div>
             <div className={style.cheeseburgers3}>
-                <div className={style.cheeseburg3}>
-                </div>
+                <img className={style.cheeseburg3} src={img4} alt=""/>
                 <div className={style.title3}>
-                    <b>Чизбургер</b>
+                    <b>{props.titleDesc}</b>
                 </div>
                 <div className={style.desc3}>
-                    <p>Булка, котлета,сыр, соленый огурец, лук, помидор, салат айсберг, соус чесночный, соус гриль, кетчуп, майонез</p>
+                    <p>{props.desc}</p>
                 </div>
                 <div className={style.cost3}>
-                    <p>200 сом</p>
+                    <p>{props.price}</p>
                 </div>
                 <Adder/>
                 <div className={style.btn}>

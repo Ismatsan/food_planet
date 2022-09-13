@@ -45,7 +45,7 @@
     align-items: center;
     text-align: center;
     color: #1D3130;
-
+    text-decoration: none;
 }
 
 .burger{
@@ -60,8 +60,8 @@
     display: flex;
     align-items: center;
     text-align: center;
-    text-decoration-line: underline;
     color: #FF583E;
+    text-decoration: none;
 }
 
 .sushi{
@@ -77,6 +77,7 @@
     align-items: center;
     text-align: center;
     color: #1D3130;
+    text-decoration: none;
 }
 
 .rols{
@@ -92,6 +93,7 @@
     align-items: center;
     text-align: center;
     color: #1D3130;
+    text-decoration: none;
 }
 
 .salads{
@@ -107,6 +109,7 @@
     align-items: center;
     text-align: center;
     color: #1D3130;
+    text-decoration: none;
 }
 
 .desserts{
@@ -122,6 +125,7 @@
     align-items: center;
     text-align: center;
     color: #1D3130;
+    text-decoration: none;
 }
 
 .beverages{
@@ -137,6 +141,9 @@
     align-items: center;
     text-align: center;
     color: #1D3130;
+    border: none;
+    background: #FFFFFF;
+    text-decoration: none;
 }
 
 .chburgers{
@@ -197,7 +204,7 @@
     align-items: center;
     text-align: center;
     color: #1D3130;
-
+    text-decoration: none;
 }
 
 .burger2{
@@ -212,8 +219,8 @@
     display: flex;
     align-items: center;
     text-align: center;
-    text-decoration-line: underline;
     color: #FF583E;
+    text-decoration: none;
 }
 
 .sushi2{
@@ -229,6 +236,7 @@
     align-items: center;
     text-align: center;
     color: #1D3130;
+    text-decoration: none;
 }
 
 .rols2{
@@ -244,6 +252,7 @@
     align-items: center;
     text-align: center;
     color: #1D3130;
+    text-decoration: none;
 }
 
 .salads2{
@@ -259,6 +268,7 @@
     align-items: center;
     text-align: center;
     color: #1D3130;
+    text-decoration: none;
 }
 
 .desserts2{
@@ -274,6 +284,7 @@
     align-items: center;
     text-align: center;
     color: #1D3130;
+    text-decoration: none;
 }
 
 .beverages2{
@@ -289,4 +300,5 @@
     align-items: center;
     text-align: center;
     color: #1D3130;
+    text-decoration: none;
 }

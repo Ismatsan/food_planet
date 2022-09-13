@@ -6,7 +6,7 @@ const Phone = () => {
         <div className={style.phone}>
             <button className={style.call}> </button>
             <div className={style.put}>
-                <input type="tel" id="phoneNumber" name="phoneNumber" placeholder={+996500405988}/>
+                <input type="tel" id="phoneNumber" name="phoneNumber" className={style.phoneNumber} placeholder={+996500405988}/>
             </div>
         </div>
     );

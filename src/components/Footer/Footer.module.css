@@ -106,3 +106,30 @@
     border: none;
     text-decoration: none;
 }
+
+.tel{
+    position: absolute;
+    width: 160px;
+    height: 24px;
+    left: 908px;
+    top: 0;
+
+}
+
+.img{
+    width: 16px;
+    height: 16px;
+    left: 1174px;
+    top: 3141px;
+}
+
+.phoneNumber{
+    width: 136px;
+    height: 24px;
+
+    font-family: 'Roboto';
+    font-size: 18px;
+    background: #254f4c;
+    color: #FFFFFF;
+    border: none;
+}

@@ -39,15 +39,17 @@
     align-items: center;
     text-align: center;
     color: #FF583E;
+    text-decoration: none;
 }
 
 .menu{
-    background: #efefef;
+    background: #ffffff;
     width: 67px;
     height: 24px;
     left: 685px;
     top: 32px;
     color: #1D3130;
+    border: none;
 }
 
 .delivery{
@@ -63,6 +65,7 @@
     align-items: center;
     text-align: center;
     color: #1D3130;
+    text-decoration: none;
 }
 
 .contacts{
@@ -78,6 +81,7 @@
     align-items: center;
     text-align: center;
     color: #1D3130;
+    text-decoration: none;
  }
 
 .phone{
@@ -87,13 +91,15 @@
     height: 24px;
     left: 780px;
     top: 0;
+
 }
 
 .call{
     position: absolute;
     background-image: url("./img/Phone.svg");
-    width: 22px;
-    height: 22px;
+    width: 16px;
+    height: 16px;
+    border: none;
     top: 0;
 
 }
@@ -108,6 +114,7 @@
     font-size: 18px;
     line-height: 21px;
     color: #1D3130;
+
 }
 
 .basket{
@@ -116,14 +123,15 @@
     height: 24px;
     left: 1032px;
     top: 0;
+
 }
 
 .buy{
-    width: 22px;
-    height: 22px;
+    width: 17px;
+    height: 16px;
     background-image: url("./img/buy 1.svg");
     left: 1030px;
-
+    border: none;
 }
 
 .vector{
@@ -133,6 +141,7 @@
     top: 5.56%;
     bottom: 2.79%;
     background: #1D3130;
+    border: none;
 }
 
 .amount{
@@ -141,7 +150,12 @@
     left: 1352px;
     font-style: normal;
     font-weight: 700;
-    font-size: 16px;
+    font-size: 22px;
     line-height: 23px;
     color: #FF583E;
+    border: none;
+}
+
+.phoneNumber{
+    border: none;
 }

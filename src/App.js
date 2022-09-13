@@ -8,6 +8,7 @@ import FirstBlok from "./components/FirstBlok/FirstBlok";
 import SecondBlok from "./components/SecondBlok/SecondBlok";
 import About from "./components/About/About";
 import Reviews from "./components/Reviews/Reviews";
+import Basket from "./components/Basket/Basket";
 
 const App = () => {
     return (
@@ -28,6 +29,7 @@ const App = () => {
             </div>
             <Reviews/>
             <Footer/>
+            <Basket/>
         </div>
     );
 };

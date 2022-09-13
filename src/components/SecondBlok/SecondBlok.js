@@ -1,6 +1,14 @@
 import React from 'react';
 import style from './SecondBlok.module.css';
 import Summing from "./Summing";
+import img from './img/Tofu-Burger-PNG-1.png';
+import img2 from './img/Tofu-Burger-PNG- 2.png';
+import img3 from './img/Tofu-Burger-PNG-3.png';
+import img4 from './img/Tofu-Burger-PNG-4.png';
+import img5 from './img/Tofu-Burger-PNG-5.png';
+import img6 from './img/Tofu-Burger-PNG-6.png';
+import img7 from './img/Tofu-Burger-PNG-7.png';
+import img8 from './img/Tofu-Burger-PNG-8.png';
 
 const SecondBlok = () => {
     return (
@@ -17,8 +25,7 @@ const SecondBlok = () => {
                 </ul>
             </div>
             <div className={style.pizza1}>
-                <div className={style.img1}>
-                </div>
+                <img className={style.img1} src={img} alt=""/>
                 <div className={style.title1}>
                     <b>Мексиканская</b>
                 </div>
@@ -34,8 +41,7 @@ const SecondBlok = () => {
                 </div>
             </div>
             <div className={style.pizza2}>
-                <div className={style.img2}>
-                </div>
+                <img className={style.img2} src={img2} alt=""/>
                 <div className={style.title2}>
                     <b>Мексиканская</b>
                 </div>
@@ -51,8 +57,7 @@ const SecondBlok = () => {
                 </div>
             </div>
             <div className={style.pizza3}>
-                <div className={style.img3}>
-                </div>
+                <img className={style.img3} src={img3} alt=""/>
                 <div className={style.title3}>
                     <b>Мексиканская</b>
                 </div>
@@ -68,8 +73,7 @@ const SecondBlok = () => {
                 </div>
             </div>
             <div className={style.pizza4}>
-                <div className={style.img4}>
-                </div>
+                <img className={style.img4} src={img4} alt=""/>
                 <div className={style.title4}>
                     <b>Мексиканская</b>
                 </div>
@@ -85,8 +89,7 @@ const SecondBlok = () => {
                 </div>
             </div>
             <div className={style.pizza5}>
-                <div className={style.img5}>
-                </div>
+                <img className={style.img5} src={img5} alt=""/>
                 <div className={style.title5}>
                     <b>Мексиканская</b>
                 </div>
@@ -102,8 +105,7 @@ const SecondBlok = () => {
                 </div>
             </div>
             <div className={style.pizza6}>
-                <div className={style.img6}>
-                </div>
+                <img className={style.img6} src={img6} alt=""/>
                 <div className={style.title6}>
                     <b>Мексиканская</b>
                 </div>
@@ -119,8 +121,7 @@ const SecondBlok = () => {
                 </div>
             </div>
             <div className={style.pizza7}>
-                <div className={style.img7}>
-                </div>
+                <img className={style.img7} src={img7} alt=""/>
                 <div className={style.title7}>
                     <b>Мексиканская</b>
                 </div>
@@ -136,8 +137,7 @@ const SecondBlok = () => {
                 </div>
             </div>
             <div className={style.pizza8}>
-                <div className={style.img8}>
-                </div>
+                <img className={style.img8} src={img8} alt=""/>
                 <div className={style.title8}>
                     <b>Мексиканская</b>
                 </div>
@@ -155,7 +155,6 @@ const SecondBlok = () => {
             <div className={style.bt}>
                 <button className={style.buttn}>Показать еще</button>
             </div>
-
         </>
     );
 };
