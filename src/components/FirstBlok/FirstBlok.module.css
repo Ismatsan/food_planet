@@ -1,5 +1,4 @@
 .fBlok{
-    position: absolute;
     width: 1152px;
     height: 550px;
     left: 240px;
@@ -28,8 +27,8 @@
     position: absolute;
     width: 600px;
     height: 32px;
-    left: 516px;
-    top: 656px;
+    left: 260px;
+    top: 0;
 }
 
 .pizza{
@@ -150,15 +149,13 @@
     position: absolute;
     width: 264px;
     height: 392px;
-    left: 240px;
-    top: 777px;
+    top: 120px;
 
     background: #2B4241;
     border-radius: 40px;
 }
 
 .sBlok{
-    position: absolute;
     width: 1152px;
     height:32px;
     left: 240px;
@@ -170,7 +167,7 @@
     width: 122px;
     height: 32px;
     left: 0;
-    top: 0;
+    top: 550px;
     margin: 0;
     font-style: normal;
     font-weight: 900;
@@ -187,8 +184,8 @@
     position: absolute;
     width: 600px;
     height: 32px;
-    left: 516px;
-    top: 1200px;
+    left: 270px;
+    top: 550px;
 }
 
 .pizza2{

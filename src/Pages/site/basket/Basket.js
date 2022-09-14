@@ -1,7 +1,10 @@
 import React from 'react';
 import style from './Basket.module.css';
-import image from './images/iphone-13-pro-blue-select.webp';
-import image1 from './images/iphone-13-green-select_VLbGgMB.webp';
+import image from './images/Cheesburger.png';
+import image1 from './images/Pizza.png';
+import del from './images/x-circle.svg';
+import arrow from './images/right-arr.svg';
+import Main from "../main/Main";
 
 const Basket = () => {
     return (
@@ -45,7 +48,7 @@ const Basket = () => {
                                     <img src={image} className={style.product_img} alt=""/>
                                 </div>
                                 <div className={style.text_center}>
-                                    <p className={style.iPhonePro}>iPhone 13 Pro</p>
+                                    <p className={style.iPhonePro}>Чизбургер</p>
                                 </div>
                             </div>
                             <div className={style.amaunt}>
@@ -60,39 +63,39 @@ const Basket = () => {
                                 <p className={style.costTitle}>Цена</p>
                                 <p className={style.usd_price}>
                                     $
-                                    <span className={style.start_price}>1150,0</span>
+                                    <span>2</span>
                                 </p>
                                 <p className={style.rub_price}>
-                                    <span className="start-converted-price">96600</span>
+                                    <span>200</span>
                                     сом
                                 </p>
                             </div>
                             <div className={style.toPay}>
                                 <div>
-                                    <p className={style.paytitle}>К оплате</p>
+                                    <p className={style.payTitle}>К оплате</p>
                                     <p className={style.usd_price}>
                                         $
-                                        <span className="final-price">1150</span>
+                                        <span>2</span>
                                     </p>
                                     <p className={style.rub_price}>
-                                        <span className="converted-price">96600</span>
+                                        <span>200</span>
                                         сом</p>
                                 </div>
                                 <div className={style.delete}>
                                     <a className={style.deleteFromBasket} data-id="422" data-unique="17707">
-                                        <img src="./images/x-circle.svg" alt=""/>
+                                        <img src={del} alt=""/>
                                     </a>
                                 </div>
                             </div>
                         </div>
 
                         <div className={style.productInBasket}>
-                            <div className={style.col_md_4}>
+                            <div className={style.product2_md_4}>
                                 <div className={style.col_md_3}>
                                     <img src={image1} alt="" className={style.product_img2}/>
                                 </div>
                                 <div className={style.text_center}>
-                                    <p className={style.iPhone13}>iPhone 13</p>
+                                    <p className={style.iPhone13}>Пицца</p>
                                 </div>
                             </div>
                             <div className={style.amaunt2}>
@@ -109,27 +112,27 @@ const Basket = () => {
                                 <p className={style.costTitle}>Цена</p>
                                 <p className={style.usd_price}>
                                     $
-                                    <span className="start-price">880,0</span>
+                                    <span>2</span>
                                 </p>
                                 <p className={style.rub_price}>
-                                    <span className="start-converted-price">73920</span>
+                                    <span>200</span>
                                     сом
                                 </p>
                             </div>
                             <div className={style.toPay2}>
                                 <div>
-                                    <p className={style.payTitle}>К оплате</p>
-                                    <p className={style.usd_price}>
+                                    <p className={style.payTitle2}>К оплате</p>
+                                    <p className={style.usd_price2}>
                                         $
-                                        <span className="final-price">880</span>
+                                        <span>2</span>
                                     </p>
-                                    <p className={style.rub_price}>
-                                        <span className="converted-price">73920</span>
+                                    <p className={style.rub_price2}>
+                                        <span>200</span>
                                         сом</p>
                                 </div>
                                 <div className={style.delete}>
                                     <a className={style.deleteFromBasket} data-id="423" data-unique="17708">
-                                        <img src="./images/x-circle.svg" alt=""/>
+                                        <img src={del} alt=""/>
                                     </a>
                                 </div>
                             </div>
@@ -144,17 +147,17 @@ const Basket = () => {
                                 </div>
                                 <div className={style.col_6}>
                                     <p className={style.resultPriceUsd}>
-                                        $ <span className="">2030,0</span>
+                                        $ <span>4,0</span>
                                     </p>
                                     <p className={style.resultPriceConverted}>
-                                        <span>170520</span> сом
+                                        <span>400</span> сом
                                     </p>
                                 </div>
                             </div>
                         </div>
                         <div className={style.lastBlok}>
-                            <a className={style.link} href="/catalog">
-                                <img className={style.rotate180} src="./images/right-arr.svg" alt=""/>
+                            <a className={style.link} href={<Main/>}>
+                                <img className={style.rotate180} src={arrow} alt=""/>
                                 Продолжить покупки
                             </a>
                             <button id="basketBtnId"
