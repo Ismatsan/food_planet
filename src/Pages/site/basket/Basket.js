@@ -4,7 +4,6 @@ import image from './images/Cheesburger.png';
 import image1 from './images/Pizza.png';
 import del from './images/x-circle.svg';
 import arrow from './images/right-arr.svg';
-import Main from "../main/Main";
 
 const Basket = () => {
     return (
@@ -156,14 +155,11 @@ const Basket = () => {
                             </div>
                         </div>
                         <div className={style.lastBlok}>
-                            <a className={style.link} href={<Main/>}>
+                            <a className={style.link} href="/">
                                 <img className={style.rotate180} src={arrow} alt=""/>
                                 Продолжить покупки
                             </a>
-                            <button id="basketBtnId"
-                                    className={style.btn}>
-                                ОФОРМИТЬ ЗАКАЗ
-                            </button>
+                            <a className={style.btn} href="/checkout">ОФОРМИТЬ ЗАКАЗ</a>
                         </div>
                     </div>
                     <div className={style.bb_grey}>

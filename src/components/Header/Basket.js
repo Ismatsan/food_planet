@@ -4,7 +4,7 @@ import style from './Header.module.css';
 const Basket = () => {
     return (
         <div className={style.basket}>
-            <button className={style.buy}> </button>
+            <a className={style.buy} href="/checkout" role="btn">Li.</a>
             <input type="number" className={style.amount} name="amount" placeholder={1}/>
         </div>
     );

@@ -1,0 +1,67 @@
+.head{
+    position: absolute;
+    height: 44px;
+    left: 285px;
+    right: 33px;
+    top: 20px;
+}
+
+.title{
+    position: absolute;
+    height: 34px;
+    left: 0;
+    right: 351px;
+    top: 0;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    color: #252733;
+}
+
+.img{
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    right: 271px;
+    top: 34px;
+}
+
+.img2{
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    right: 231px;
+    top: 34px;
+}
+
+.img3{
+    position: absolute;
+    width: 2px;
+    height: 32px;
+    right: 199px;
+    top: 30px;
+}
+
+.name{
+    position: absolute;
+    width: 114px;
+    height: 18px;
+    right: 60px;
+    top: 22px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: right;
+    color: #252733;
+}
+
+.img4{
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    left: 1148px;
+    top: 23px;
+
+}

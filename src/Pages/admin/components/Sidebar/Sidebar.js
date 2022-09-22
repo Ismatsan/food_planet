@@ -1,5 +1,5 @@
 import React from 'react';
-import s from './Desktop.module.css';
+import s from './Sidebar.module.css';
 import img from './Logo/Logo.png';
 import img2 from './Logo/1. overview.png';
 import icon2 from './Logo/2. tickets.png';
@@ -8,7 +8,7 @@ import icon4 from './Logo/4. contacts.png';
 import icon5 from './Logo/5. agents.png';
 import icon6 from './Logo/6. articles.png';
 
-const Desktop = () => {
+const Sidebar = () => {
     return (
         <div className={s.sidebar}>
             <img className={s.logo} src={img} alt=""/>
@@ -30,4 +30,4 @@ const Desktop = () => {
     );
 };
 
-export default Desktop;
+export default Sidebar;

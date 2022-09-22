@@ -20,7 +20,7 @@
     width: 139px;
     height: 24px;
     left: 76px;
-    top: 41px;
+    top: 26px;
     font-style: normal;
     font-weight: 700;
     font-size: 19px;
@@ -33,7 +33,7 @@
     position: absolute;
     width: 255px;
     height: 56px;
-    left: 0;
+    left: 72px;
     top: 128px;
     border-left-color:  #DDE2FF;
     font-style: normal;
@@ -48,14 +48,14 @@
     width: 16px;
     height: 16px;
     left: 32px;
-    top: 20px;
+    top: 128px;
 }
 
 .orders{
     position: absolute;
     width: 255px;
     height: 56px;
-    left: 0;
+    left: 72px;
     top: 184px;
     font-style: normal;
     font-weight: 400;
@@ -69,14 +69,14 @@
     width: 16px;
     height: 16px;
     left: 32px;
-    top: 20px;
+    top: 188px;
 }
 
 .menu{
     position: absolute;
     width: 255px;
     height: 56px;
-    left: 0;
+    left: 72px;
     top: 240px;
     font-style: normal;
     font-weight: 400;
@@ -90,14 +90,14 @@
     width: 16px;
     height: 16px;
     left: 32px;
-    top: 20px;
+    top: 242px;
 }
 
 .contacts{
     position: absolute;
     width: 255px;
     height: 56px;
-    left: 0;
+    left: 72px;
     top: 296px;
     font-style: normal;
     font-weight: 400;
@@ -111,14 +111,14 @@
     width: 16px;
     height: 16px;
     left: 32px;
-    top: 20px;
+    top: 299px;
 }
 
 .reviews{
     position: absolute;
     width: 255px;
     height: 56px;
-    left: 0;
+    left: 72px;
     top: 352px;
     font-style: normal;
     font-weight: 400;
@@ -132,14 +132,14 @@
     width: 16px;
     height: 16px;
     left: 32px;
-    top: 20px;
+    top: 354px;
 }
 
 .employees{
     position: absolute;
     width: 255px;
     height: 56px;
-    left: 0;
+    left: 72px;
     top: 408px;
     font-style: normal;
     font-weight: 400;
@@ -153,5 +153,5 @@
     width: 16px;
     height: 16px;
     left: 32px;
-    top: 20px;
+    top: 410px;
 }

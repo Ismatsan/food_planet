@@ -4,7 +4,7 @@ import style from './Header.module.css';
 const Navigator = () => {
     return (
         <div className={style.navigator}>
-            <a className={style.main} href="/Home" role="button">Главная</a>
+            <a className={style.main} href="/" role="button">Главная</a>
             <select id="food" className={style.menu}>
                 <option value="">Меню</option>
                 <option value="Pizzas">Пиццы</option>
