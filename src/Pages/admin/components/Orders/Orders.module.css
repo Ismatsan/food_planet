@@ -1,4 +1,10 @@
-.sidebar{
+.body{
+    width: 100%;
+    position: relative;
+    background: #F7F8FC;
+}
+
+.order{
     position: absolute;
     width: 255px;
     height: 693px;
